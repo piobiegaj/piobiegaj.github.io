@@ -1,0 +1,40 @@
+html {
+    font-size: 10px;
+    font-family: 'PT Mono', monospace;
+    background-color: #ECE3EC;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #F1DEF1;
+    padding: 0px 60px 15px 60px;
+    border: 2px solid purple;
+}
+img[src] {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    border: 1px solid darkslategrey;
+}
+h1, p {
+    color: darkslategrey;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 8px purple;
+}
+p {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 2px;
+    text-align: center;
+}
+li {
+    font-size: 18px;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-align: center;
+}
